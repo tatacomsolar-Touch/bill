@@ -1,0 +1,20 @@
+{
+  "name": "Solar Rooftop Tax Invoice & Admin",
+  "short_name": "Solar Bill",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#eef2f5",
+  "theme_color": "#10635a",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/ZpQc6FJ5/Image-2026-09-30-at-8.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "https://i.ibb.co/ZpQc6FJ5/Image-2026-09-30-at-8.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
